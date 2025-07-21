@@ -116,8 +116,8 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 
 - [🦯 Primary Users Interface](docs/primary.md)
 
-### Full App Video:
-Coming Soon.
+### Full App Video & Project Documentation: [Here](https://drive.google.com/drive/u/2/folders/1QiA14KGVweFBvd0p_YZLZpH2SbCasOKq)
+
 
 ## 🙏 Special Thanks
 Our Academic Doctors and Supervisors:

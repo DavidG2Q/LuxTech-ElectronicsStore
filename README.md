@@ -20,6 +20,7 @@
 
 <br>
 
+
 ## ✨ App Feature Highlights
 🔐 Log In & sign Up | Email confirmation |  profile management (Data is synced with supabase in real time)
 <br>
@@ -28,6 +29,7 @@
 orders | ⭐ Order Ratings | 🎨 Theme switcher (color blindness themes) <br>
 
 🗣️ Voice assistant for full voice control
+
 
 ## Admin Dashboard Features
 📦 Add, edit, and delete products
@@ -39,6 +41,7 @@ orders | ⭐ Order Ratings | 🎨 Theme switcher (color blindness themes) <br>
 💳 View refund details (after approving returns)
 
 🔁 Handle returns and customer issues
+
 
 ## 🛠️ Tech Stack
 **Frontend:** Flutter (Dart)
@@ -59,7 +62,7 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 **Each provider has dedicated methods to load/save this data using ``shared_preferences``
 , Examples:**
 
-- ``ProductProvider``: ``_saveToSharedPreferences``, - ``_loadFromSharedPreferences``
+- ``ProductProvider``: ``_saveToSharedPreferences``, ``_loadFromSharedPreferences``
 
 - ``CartProvider``: ``_saveCartItems``, ``_loadCartItems``
 
@@ -74,6 +77,7 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 **Offline Caching:** Local database caches product data on the device to reduce redundant Supabase fetches. Data updates automatically via Supabase Realtime subscriptions whenever a change is detected.
 
 **Media Hosting:** Supabase Storage – for storing and retrieving product images.
+
 
 
 <details>
@@ -119,6 +123,7 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 </details>
 
 
+
 ## Full App Screenshots:
 Explore the full interface for each user type by clicking the links below:
 - [🧑‍🦱 Secondary Users Interface](docs/secondary.md)
@@ -130,15 +135,24 @@ Explore the full interface for each user type by clicking the links below:
 ## Full App Video & Project Documentation: [Here](https://drive.google.com/drive/u/2/folders/1QiA14KGVweFBvd0p_YZLZpH2SbCasOKq)
 
 
+## 📲 Try the App Yourself
+Want to explore **LuxTech** on your own device? , Download and test the latest versions below:
+- 🧑‍🦱 [**Secondary Users Version(includes admin dashboard)**](https://github.com/DavidG2Q/LuxTech-ElectronicsStore/releases/tag/secondary-v1.0.0)
+- 🦯 [**Primary (Voice-controlled, for visually impaired users)**](https://github.com/DavidG2Q/LuxTech-ElectronicsStore/releases/tag/primary-v1.0.0)
+> ✅ Simply Install the APK directly on your Android device to experience the full functionality.
+<br><br>You can also check all builds in the [Releases Section](https://github.com/DavidG2Q/LuxTech-ElectronicsStore/releases)
+
+
 ## 🙏 Special Thanks
 Our Academic Doctors and Supervisors:
 Thank you for your valuable guidance, insights, and constant encouragement which helped bring this project to life.<br>
 Your support and collaboration were essential to the success of this work.<br>
 A special thanks to my team members for their contributions during the development process, and to everyone who supported us in any capacity.
 
+
+
 ## 👥 Team
 [David Gamil](https://github.com/DavidG2Q) (Lead Developer)   |   [Yassa Mouris](https://github.com/yassaYM7)   |   [Mostafa Hassan](https://github.com/Mostafaa212)   |   [Khaled Ashraf](https://github.com/Recker-13)
-
 
 
 ## 📄 License

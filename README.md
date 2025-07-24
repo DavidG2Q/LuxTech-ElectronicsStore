@@ -10,7 +10,17 @@
 - Normally-sighted people
 - 3 color-blind-friendly themes that change the entire app's color scheme to suit different types of color vision deficiency.
 
-## ✨ App Features Highlights
+<br>
+ <p align="center"> Secondary Users homescreen - Primary Users homescreen - Admin Dashboard screen </p>
+ <p align="center">
+  <img src="img/sec/Home1.jpg" width="25%" style="margin-right: 10px;">&nbsp;&nbsp;
+  <img src="img/primary/home.jpg" width="25%" style="margin-right: 10px;">&nbsp;&nbsp;
+  <img src="img/admin/AdminDashboard.jpg" width="25%" style="margin-right: 10px;">
+</p>
+
+<br>
+
+## ✨ App Feature Highlights
 🔐 Log In & sign Up | Email confirmation |  profile management (Data is synced with supabase in real time)
 <br>
 
@@ -67,7 +77,7 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 
 
 <details>
-<summary>📦 <strong>Additional Libraries & Packages Used</strong></summary>
+<summary>📦 <strong>Additional Libraries & Packages Used (Click to show)</strong></summary>
 
 ### 🖌️ UI/UX & Utility  
 - `flutter_svg` – Render SVG images  
@@ -110,26 +120,26 @@ Provider is the main state management solution. The app uses ``ChangeNotifierPro
 
 
 ## Full App Screenshots:
+Explore the full interface for each user type by clicking the links below:
 - [🧑‍🦱 Secondary Users Interface](docs/secondary.md)
 
 - [🛡️ Admin Dashboard Interface](docs/admin.md) 
 
 - [🦯 Primary Users Interface](docs/primary.md)
 
-### Full App Video & Project Documentation: [Here](https://drive.google.com/drive/u/2/folders/1QiA14KGVweFBvd0p_YZLZpH2SbCasOKq)
+## Full App Video & Project Documentation: [Here](https://drive.google.com/drive/u/2/folders/1QiA14KGVweFBvd0p_YZLZpH2SbCasOKq)
 
 
 ## 🙏 Special Thanks
 Our Academic Doctors and Supervisors:
-Thank you for your valuable guidance, insights, and constant encouragement which helped bring this project to life.
-Your support and collaboration were essential to the success of this work.
+Thank you for your valuable guidance, insights, and constant encouragement which helped bring this project to life.<br>
+Your support and collaboration were essential to the success of this work.<br>
+A special thanks to my team members for their contributions during the development process, and to everyone who supported us in any capacity.
 
-👥 My Teammates:<br>
-- [Yassa Mouris](https://github.com/yassaYM7)
-- [Mostafa Hassan](https://github.com/Mostafaa212)
-- [Khaled Ashraf](https://github.com/Recker-13)
+## 👥 Team
+[David Gamil](https://github.com/DavidG2Q) (Lead Developer)   |   [Yassa Mouris](https://github.com/yassaYM7)   |   [Mostafa Hassan](https://github.com/Mostafaa212)   |   [Khaled Ashraf](https://github.com/Recker-13)
 
-Thank you for your dedication, and contribution throughout the project.
+
 
 ## 📄 License
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.   [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
